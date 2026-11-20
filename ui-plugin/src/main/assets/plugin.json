@@ -1,0 +1,9 @@
+{
+  "id": "com.stupidtree.hita.ui.resource",
+  "name": "课程资源",
+  "version": "0.1.0",
+  "entryClass": "com.stupidtree.hita.ui.resource.ResourceUiPlugin",
+  "apiVersion": 7,
+  "composeVersion": "1.6.8",
+  "capabilities": ["hita.ui.resource"]
+}
